@@ -1,0 +1,25 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Mon May 27 03:10:39 2019
+Invocation: foremost kuching.jpg 
+Output directory: /home/puput/Unduhan/AgriHack0x02/forensic/bendera2/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: kuching.jpg
+Start: Mon May 27 03:10:39 2019
+Length: 427 KB (437806 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.jpg 	     262 KB 	          0 	 
+1:	00000524.zip 	     165 KB 	     268355 	 
+Finish: Mon May 27 03:10:39 2019
+
+2 FILES EXTRACTED
+	
+jpg:= 1
+zip:= 1
+------------------------------------------------------------------
+
+Foremost finished at Mon May 27 03:10:39 2019
